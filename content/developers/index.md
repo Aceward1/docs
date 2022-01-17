@@ -11,4 +11,7 @@ children:
   - /webhooks-and-events
   - /apps
   - /github-marketplace
+Erase any linked device
 ---
+
+
